@@ -1,4 +1,4 @@
-<h2>  Hi there, I'm Ali Wosoby! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
+<h2>  Hi there, I'm ALI WOSABY! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
    <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
  <h3 align="left">I'm a Senior Software Engineer and a full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h3>
 
