@@ -16,7 +16,7 @@
 
 - 📃 Have a look to my [CV_on_GoogleDrive](https://drive.google.com/file/d/1dD6wYfbRlUQmuAsmxQVybts5wFFbo2qd/view?usp=sharing).
 
-- 📃 Have a look to my [CV_on_Github](https://github.com/ALIWOSABY/ALIWOSABY/blob/master/ALIWOSABYLastCV-18-09-2022.pdf).
+- 📃 Have a look to my [CV_on_Github](https://github.com/ALIWOSABY/ALIWOSABY/blob/main/ALI%20WOSABY_2024.pdf).
 
 <br/>  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ALIWOSABY" alt="ALIWOSABY" /> <img src="https://wakatime.com/badge/user/2b7f1103-4a86-4ff2-a29a-35149552af7c.svg" alt="Code Time" /> <img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="ALIWOSABY" /> <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" alt="open source"/>  <br />
