@@ -2,7 +2,7 @@
 
 # 👨‍💻 ALI WOSABY
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Senior+Full-Stack+Software+Engineer;Laravel+%7C+Vue.js+%7C+Flutter+Expert;7%2B+Years+Building+Scalable+Solutions;Technical+Team+Lead+%26+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Senior+Full-Stack+Software+Engineer;Laravel+Expert+%7C+Vue.js+Master+%7C+Flutter+Pro;7%2B+Years+of+Professional+Experience;Building+Scalable+%26+High-Performance+Solutions" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-wosaby-2bbb03181/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
