@@ -391,7 +391,7 @@ $expertise = [
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CPanel_logo.svg/320px-CPanel_logo.svg.png" width="120" alt="cPanel"/>
+<img src="https://www.cpanel.net/wp-content/uploads/2019/10/png_cpanel_logo_id_white_RGB.png" width="120" alt="cPanel"/>
 <br><b>cPanel/WHM</b>
 <br>
 <sub>Expert Level</sub><br>
