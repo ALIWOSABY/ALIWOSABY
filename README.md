@@ -70,7 +70,7 @@ team_size_managed: 5-10 Developers
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="80" height="80" alt="Laravel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="80" height="80" alt="Laravel"/>
 <br><strong>Laravel</strong>
 <br><sub>Primary Framework</sub>
 <br>
@@ -90,7 +90,7 @@ team_size_managed: 5-10 Developers
 </details>
 </td>
 <td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="80" height="80" alt="Vue.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="80" height="80" alt="Vue.js"/>
 <br><strong>Vue.js</strong>
 <br><sub>Frontend Framework</sub>
 <br>
@@ -109,7 +109,7 @@ team_size_managed: 5-10 Developers
 </details>
 </td>
 <td align="center" width="200">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="80" height="80" alt="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="80" height="80" alt="Flutter"/>
 <br><strong>Flutter</strong>
 <br><sub>Mobile Framework</sub>
 <br>
